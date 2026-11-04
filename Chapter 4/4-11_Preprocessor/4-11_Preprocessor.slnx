@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="4-11_Preprocessor.vcxproj" Id="07abb204-c478-4e20-b320-48506f78435f" />
+</Solution>

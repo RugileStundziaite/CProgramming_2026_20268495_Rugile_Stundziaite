@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1-2_temperature_table.vcxproj" Id="8ae8146f-d7b9-4206-8747-e0ef2fffac4f" />
+</Solution>
