@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "3-6_Loops_Ex_3-5\\x64\\Debug\\Itob_function.obj",
+            "outputs": [
+                "3-6_Loops_Ex_3-5\\x64\\Debug\\Itob_function.cpp.obj.dt.module.json",
+                "3-6_Loops_Ex_3-5\\x64\\Debug\\Itob_function.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
