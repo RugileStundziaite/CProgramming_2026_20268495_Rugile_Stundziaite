@@ -1,0 +1,3 @@
+﻿  5.10.c
+5.10.obj : error LNK2019: unresolved external symbol getline referenced in function main
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5 EXAMPLES\5.10_Command-Line_Arguments\x64\Debug\5.10_Command-Line_Arguments.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5.6_Pointers_To_Pointers_Dynamic.vcxproj" Id="88cb2cc7-5416-4324-b256-3dbc290b67a3" />
+</Solution>
