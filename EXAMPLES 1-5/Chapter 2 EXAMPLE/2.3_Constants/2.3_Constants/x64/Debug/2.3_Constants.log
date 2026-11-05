@@ -1,0 +1,10 @@
+﻿  2.3.c
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\EXAMPLES 1-5\Chapter 2 EXAMPLE\2.3_Constants\2.3.c(11,9): warning C4005: 'VTAB': macro redefinition
+      D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\EXAMPLES 1-5\Chapter 2 EXAMPLE\2.3_Constants\2.3.c(8,9):
+      see previous definition of 'VTAB'
+  
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\EXAMPLES 1-5\Chapter 2 EXAMPLE\2.3_Constants\2.3.c(12,9): warning C4005: 'BELL': macro redefinition
+      D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\EXAMPLES 1-5\Chapter 2 EXAMPLE\2.3_Constants\2.3.c(9,9):
+      see previous definition of 'BELL'
+  
+  2.3_Constants.vcxproj -> D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\EXAMPLES 1-5\Chapter 2 EXAMPLE\2.3_Constants\x64\Debug\2.3_Constants.exe
