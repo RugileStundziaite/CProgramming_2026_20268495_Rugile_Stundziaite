@@ -1,0 +1,7 @@
+﻿  Readlines.c
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\Readlines.c(25,38): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[5000]'
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\Readlines.c(25,38): warning C4024: 'readlines': different types for formal and actual parameter 2
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\Readlines.c(43,36): warning C4028: formal parameter 2 different from declaration
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\Readlines.c(43,5): warning C4029: declared formal parameter list different from definition
+D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\Readlines.c(121,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  5-6_Pointer_Arrays.vcxproj -> D:\PDF Knygos Rugilės\Univeras\2026 autumn\Programming Methods\CProgramming_20268495_Rugile_Stundziaite\Chapter 5\5-6_Pointer_Arrays\x64\Debug\5-6_Pointer_Arrays.exe
