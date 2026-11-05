@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "4-11_Pre.07abb204\\x64\\Debug\\calc.obj",
+            "outputs": [
+                "4-11_Pre.07abb204\\x64\\Debug\\calc.h.obj.dt.module.json",
+                "4-11_Pre.07abb204\\x64\\Debug\\calc.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
